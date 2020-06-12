@@ -9,5 +9,5 @@
 
 Table of contents
 - [Markdown Examples from class one-102](/MarkdownExamples.md)
-- [Markdown Examples from class one-102](/MarkdownExamples.md)
-- [Markdown Examples from class one-102](/MarkdownExamples.md)
+- [Markdown Examples from class two-102](/MarkdownExamples.md)
+- [Markdown Examples from class three-102](/MarkdownExamples.md)
