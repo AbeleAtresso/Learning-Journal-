@@ -6,4 +6,4 @@ Hi, my name is Abele(A bell) Atresso. I just graduated from Iowa City West High 
 
 Table of contents
 - [Home](/README.md)
-- [Growth Mindset](/MarkdownExamples.md)
+- [Growth Mindset](/GrowthMindset.md)
