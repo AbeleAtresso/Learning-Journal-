@@ -1,7 +1,7 @@
 # Discussion 
 ## What is Markdown?
 
-Markdown is a way to style text on web that allows you to control the display, word format, to add images, etc. In another word, a plain text formatting syntax or just regular text with a few non-alphabetic characters thrown in, like # or *.
+Markdown is a way to style text on the web that allows you to control the display, word format, add images, etc. In another word, a plain text formatting syntax or just regular text with a few non-alphabetic characters thrown in, like # or *.
 
 
 #### For Example 
@@ -11,4 +11,4 @@ Types of MarkDown   |   Results
 The use of *   | creates unordered list   
 The use of # or ## | controls headers size
 The use of ![Alt Text] (url) | adds an image
-The use of [Text] (url) | creates a hyper link 
+The use of [Text] (url) | creates a hyperlink 
