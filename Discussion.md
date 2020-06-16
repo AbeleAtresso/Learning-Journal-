@@ -8,7 +8,7 @@ Markdown is a way to style text on the web that allows you to control the displa
 
 Types of MarkDown   |   Results
 ------------------- | ---------
-The use of *   | creates unordered list   
+The use of *   | creates an unordered list   
 The use of # or ## | controls headers size
 The use of ![Alt Text] (url) | adds an image
 The use of [Text] (url) | creates a hyperlink 
