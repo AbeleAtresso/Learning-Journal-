@@ -12,3 +12,10 @@ The use of *   | creates an unordered list
 The use of # or ## | controls headers size
 The use of ![Alt Text] (url) | adds an image
 The use of [Text] (url) | creates a hyperlink 
+
+
+### Site Navigation
+- [Home](/README.md)
+- [Growth Mindset](/GrowthMindset.md)
+- [Read and Discussion](/Discussion.md)
+- [Coder's Computer](/Coder'sComputer.md) 
