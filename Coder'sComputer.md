@@ -29,7 +29,6 @@ What is a *Text Editor*?
 - file : Tells you what type of file it is. 
 - ls -a: list the contents of a directory, including hidden files. 
 
-
 ### Site Navigation
 - [Home](/README.md)
 - [Growth Mindset](/GrowthMindset.md)
