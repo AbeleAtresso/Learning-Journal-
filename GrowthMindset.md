@@ -5,3 +5,9 @@ A *growth mindset* is people’s belief that their skills and knowledge can be i
 - Acknowledging and embrace imperfections. 
 - Viewing challenges as opportunities. 
 - Valuing the process over the end result.
+
+### Site Navigation
+- [Home](/README.md)
+- [Growth Mindset](/GrowthMindset.md)
+- [Read and Discussion](/Discussion.md)
+- [Coder's Computer](/Coder'sComputer.md) 
