@@ -11,3 +11,4 @@ A *growth mindset* is people’s belief that their skills and knowledge can be i
 - [Growth Mindset](/GrowthMindset.md)
 - [Read and Discussion](/Discussion.md)
 - [Coder's Computer](/Coder'sComputer.md) 
+- [Stretch Goal Class 03](/StretchGoalClass03.md) 
