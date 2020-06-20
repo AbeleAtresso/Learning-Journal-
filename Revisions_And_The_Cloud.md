@@ -15,19 +15,20 @@ Git can be installed in three ways:
 ## Important Commands
 
 #### Cloning 
-   You can also create a copy of am existing Git reposutory from a particular server by using the clone command with a repository's URL: 
+You can also create a copy of am existing Git reposutory from a particular server by using the clone command with a repository's URL: 
       
-      $ git clone URL
-  or you can clone a repository into a directory with another name of your choosing, 
+   $ git clone URL
+or you can clone a repository into a directory with another name of your choosing, 
   
-      $ git clone URL file name
+   $ git clone URL file name
  
 #### Check file Status 
-    $ git status 
+   $ git status 
+
 #### Commiutting all changes
-  This command commits a snapshot of all modifications to tracked files in the working directory, 
+This command commits a snapshot of all modifications to tracked files in the working directory, 
     
-    $ git commit -a
+   $ git commit -a
 
 ### Site Navigation
 - [Home](/README.md)
