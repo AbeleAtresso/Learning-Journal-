@@ -34,4 +34,5 @@ What is a *Text Editor*?
 - [Growth Mindset](/GrowthMindset.md)
 - [Read and Discussion](/Discussion.md)
 - [Coder's Computer](/Coder'sComputer.md) 
-- [Stretch Goal Class 03](/StretchGoalClass03.md) 
+- [Stretch Goal Class 03](/StretchGoalClass03.md)
+- [Revisons and the Cloud](/Revisions_And_The_Cloud.md)
