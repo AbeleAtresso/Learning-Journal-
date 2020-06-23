@@ -15,7 +15,7 @@ Git can be installed in three ways:
 ## Important Commands
 
 #### Cloning 
-You can also create a copy of am existing Git reposutory from a particular server by using the clone command with a repository's URL: 
+You can also create a copy of am existing Git repository from a particular server by using the clone command with a repository's URL: 
       
    $ git clone URL
 or you can clone a repository into a directory with another name of your choosing, 
@@ -26,15 +26,15 @@ or you can clone a repository into a directory with another name of your choosin
    git commit -m "Short message"
 This command will allow you to add a short message. 
  
-#### Check file Status 
-   $ git status - use to see what chages are made to your repostory. 
+#### Check file status 
+   $ git status - use to see what changes are made to your repository. 
 
-   git add - adds a change in the working sirectory to the satging area.
+   git add - adds a change in the working directory to the staging area.
 
-   git push - sends changes from local repostory to global repostory or GitHub. 
+   git push - sends changes from the local repository to the global repository or GitHub. 
 
 
-#### Commiutting all changes
+#### Committing all changes
 This command commits a snapshot of all modifications to tracked files in the working directory, 
     
    $ git commit -a
