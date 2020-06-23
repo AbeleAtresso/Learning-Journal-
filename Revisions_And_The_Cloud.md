@@ -24,7 +24,9 @@ or you can clone a repository into a directory with another name of your choosin
  
 #### Check file Status 
    $ git status - use to see what chages are made to your repostory. 
+ 
    git add - adds a chamge in the working sirectory to the satging area.
+ 
    git push - sends changes from local repostory to global repostory or GitHub. 
 
 
