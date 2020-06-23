@@ -21,6 +21,10 @@ You can also create a copy of am existing Git reposutory from a particular serve
 or you can clone a repository into a directory with another name of your choosing, 
   
    $ git clone URL filename
+
+##### Short messages
+   git commit -m "Short message"
+This command will allow you to add a short message. 
  
 #### Check file Status 
    $ git status - use to see what chages are made to your repostory. 
@@ -34,6 +38,7 @@ or you can clone a repository into a directory with another name of your choosin
 This command commits a snapshot of all modifications to tracked files in the working directory, 
     
    $ git commit -a
+
 
 ### Site Navigation
 - [Home](/README.md)
