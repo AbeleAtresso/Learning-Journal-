@@ -36,3 +36,4 @@ What is a *Text Editor*?
 - [Coder's Computer](/Coder'sComputer.md) 
 - [Stretch Goal Class 03](/StretchGoalClass03.md)
 - [Revisons and the Cloud](/Revisions_And_The_Cloud.md)
+- [Structure_Webpages_With_HTML](/STRUCTURE_WEBPAGES_WITH_HTML.md)

@@ -5,9 +5,9 @@ HyperText Markup Language (HTML) is a programming language that defines the stru
 - There are opening and closing tags. Some tags don't need a closing, becasue they are self-closing. 
 - Content are displayed in blocks or boxes.
 - examples of tags: 
-    - paragraph text <p>....</p>
-    - headlines <h1>....</h> 
-    - Navigation <nav>...</nav> 
+    - paragraph text `<p>....</p>`
+    - headlines `<h1>....</h>` 
+    - Navigation `<nav>...</nav>` 
 
 # Duckett: HTML & CSS, Chapter 18 - Process & Design 
 
@@ -28,4 +28,20 @@ Compared to what previous web page authors used the new HTML5 introduces a new s
 
 # Duckett: HTML & CSS, Chapter 8 - Extra Markup
 
-- `<!DOCTYPE html>`
+- `<!DOCTYPE html>`  Web pages begin with a DOCTYPE, which tells a browser which version of HTML the page is using. 
+- `<!-- Comments -->`  use this to add a comments, which will ignored by the browser but they can be seen in the code. 
+- `<div id="identifer">  ID attributes gives an element a unique identity allowing you to style it diffrently from other elements. 
+- `<div class="group-identifier"> Class attributes help you uniquely identify more then one element. 
+- `<h>, <p>, <ul>, and <li>`. are examples of Block Elements. They are used to group content. 
+- `<a>, <b>, <em>, and <img>` are example of Inline Elements. They will always appear to on the same line like their neighbouring elements. 
+- `<infame>` used to display a little window to display other webpages like google map or Youtube. 
+- There are a lots escape code that can be used to replace characters.  
+
+### Site Navigation
+- [Home](/README.md)
+- [Growth Mindset](/GrowthMindset.md)
+- [Read and Discussion](/Discussion.md)
+- [Coder's Computer](/Coder'sComputer.md) 
+- [Stretch Goal Class 03](/StretchGoalClass03.md)
+- [Revisons and the Cloud](/Revisions_And_The_Cloud.md)
+- [Structure_Webpages_With_HTML](/STRUCTURE_WEBPAGES_WITH_HTML.md)
