@@ -33,9 +33,9 @@ Compared to what previous web page authors used the new HTML5 introduces a new s
 - `<div id="identifer">`  ID attributes give an element a unique identity allowing you to style it differently from other elements. 
 - `<div class="group-identifier">` Class attributes help you uniquely identify more then one element. 
 - `<h>, <p>, <ul>, and <li>`. are examples of Block Elements. They are used to group content. 
-- `<a>, <b>, <em>, and <img>` are example of Inline Elements. They will always appear to on the same line as their neighbouring elements. 
+- `<a>, <b>, <em>, and <img>` are example of Inline Elements. They will always appear to on the same line as their neighboring elements. 
 - `<infame>` used to display a little window to display other webpages like google map or Youtube. 
-- There are a lots escape code that can be used to replace characters.  
+- There is a lot of escape code that can be used to replace characters.  
 
 ### Site Navigation
 - [Home](/README.md)
