@@ -31,3 +31,14 @@ Cascading Style Sheets(CSS) tells the browser How the content should look. It gi
 - There ways you can add color by using RBG value, Hex codes, and color names. 
 - You can use color pickers to chose a color you want. 
 - It is important to have enough contrast between any text and background color. 
+
+
+### Site Navigation
+- [Home](/README.md)
+- [Growth Mindset](/GrowthMindset.md)
+- [Read and Discussion](/Discussion.md)
+- [Coder's Computer](/Coder'sComputer.md) 
+- [Stretch Goal Class 03](/StretchGoalClass03.md)
+- [Revisons and the Cloud](/Revisions_And_The_Cloud.md)
+- [Structure_Webpages_With_HTML](/STRUCTURE_WEBPAGES_WITH_HTML.md)
+- [Designing Webpages with CSS](/DESIGN_WEBPAGES_WITH_CSS.md)
