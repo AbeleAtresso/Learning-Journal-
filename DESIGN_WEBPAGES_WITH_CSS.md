@@ -43,3 +43,4 @@ Cascading Style Sheets(CSS) tells the browser How the content should look. It gi
 - [Structure_Webpages_With_HTML](/STRUCTURE_WEBPAGES_WITH_HTML.md)
 - [Designing Webpages with CSS](/DESIGN_WEBPAGES_WITH_CSS.md)
 - [DYNAMIC WEBPAGES WITH JAVASCRIPT](/DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
+- [COMPUTER ARCHITECTURE AND LOGIC](/COMPUTER_ARCHITECTURE_AND_LOGIC.md)
