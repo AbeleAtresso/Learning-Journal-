@@ -1,9 +1,9 @@
 ## COMPUTER ARCHITECTURE AND LOGIC
 
-My top three most significant learning form the [6 Youtube videos](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) are 
-    - What all computers do 
-    - How computers work
-    - Hardware and Software
+My top three most significant learning form the [6 Youtube videos](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) are    
+- What all computers do 
+- How computers work
+- Hardware and Software
 
 #### What all computers do
 All computers take input, store the information, process it and output the results. These four parts make a computer, a computer. Fun fact, computers started out as basic calculators. 
