@@ -15,7 +15,7 @@ Jon Duckett: JavaScript & JQuery, page 43-69
 - Variables or `ver` are used to store information which java program needs to do its job. 
     - When creating a variable you have to declare the variable and give it a name first. For example `var quantity;` where `quantity` is the variable name. Then give the variable a value; 
         - `quantity = 3;` 3 being the value. 
-- There are three data types; Numeric `.75`, String `"Hi, Sam!'`, and Booleans `true`.  
+- There are three data types; Numeric `.75`, String `"Hi, Sam!'`, and Booleans `true` or `false`.  
 
 ### Site Navigation
 - [Home](/README.md)

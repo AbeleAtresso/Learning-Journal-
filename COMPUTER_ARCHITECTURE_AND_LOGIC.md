@@ -17,4 +17,5 @@ All computers take input, store the information, process it and output the resul
 #### Hardware and Software
 - Hardwares are things like the circuits, chips, wires, speakers, plugs, etc.. of a computer. 
 - Softerwares are codes like games, websites, maps, analysis, and apps. 
+- Operating system is the master program that manges how a software uses the hardware. 
 
