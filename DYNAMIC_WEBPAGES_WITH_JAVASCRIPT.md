@@ -16,3 +16,14 @@ Jon Duckett: JavaScript & JQuery, page 43-69
     - When creating a veriable you have to declare the variable and give it a name first. For example `var quantity;` where `quantity` is the variable name. Then give the variable a value; 
         - `quantity = 3;` 3 being being the value. 
 - There are three date types; Numeric `.75`, String `"Hi, Sam!'`, and Booleans `true`.  
+
+### Site Navigation
+- [Home](/README.md)
+- [Growth Mindset](/GrowthMindset.md)
+- [Read and Discussion](/Discussion.md)
+- [Coder's Computer](/Coder'sComputer.md) 
+- [Stretch Goal Class 03](/StretchGoalClass03.md)
+- [Revisons and the Cloud](/Revisions_And_The_Cloud.md)
+- [Structure_Webpages_With_HTML](/STRUCTURE_WEBPAGES_WITH_HTML.md)
+- [Designing Webpages with CSS](/DESIGN_WEBPAGES_WITH_CSS.md)
+- [DYNAMIC WEBPAGES WITH JAVASCRIPT](/DYNAMIC_WEBPAGES WITH_JAVASCRIPT.md)
