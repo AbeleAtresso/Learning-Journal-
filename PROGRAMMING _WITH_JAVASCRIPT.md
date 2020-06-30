@@ -50,9 +50,9 @@ Functions allow you group a series of statements together to perform a specific 
 
 - Example for returning a value: 
    
-    function getArea(width, height) {
-        return width * height;
-    }
+    `function getArea(width, height) {
+      return width * height;
+    }`
   
    The width and height are parameters. 
 
