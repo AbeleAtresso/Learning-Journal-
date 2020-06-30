@@ -44,9 +44,9 @@ Functions allow you group a series of statements together to perform a specific 
 - You can declare a function by using the keyword `function`. Then you give the function a new by using the identifier followed by `()`. 
     Example: 
      
-       ` function sayHello() {`
-          `  document.write('Hello!');`
-       ` }`
+       function sayHello() {
+          document.write('Hello!');
+        }
 
 - Example for returning a value: 
    
