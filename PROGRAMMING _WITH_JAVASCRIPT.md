@@ -43,12 +43,16 @@ Functions allow you group a series of statements together to perform a specific 
 - Pieces of information passed to a function are `parameters`. 
 - You can declare a function by using the keyword `function`. Then you give the function a new by using the identifier followed by `()`. 
     Example: 
-        ` function sayHello() {`
+     
+       ` function sayHello() {`
           `  document.write('Hello!');`
        ` }`
+
 - Example for returning a value: 
+   
     ` function getArea(width, height) {`
         `return width * height;`
    ` }`
+  
    The width and height are parameters. 
 
