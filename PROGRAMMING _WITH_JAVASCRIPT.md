@@ -56,6 +56,7 @@ Functions allow you group a series of statements together to perform a specific 
   
    The width and height are parameters. 
 
+
 ### Site Navigation
 - [Home](/README.md)
 - [Growth Mindset](/GrowthMindset.md)
@@ -68,3 +69,4 @@ Functions allow you group a series of statements together to perform a specific 
 - [DYNAMIC WEBPAGES WITH JAVASCRIPT](/DYNAMIC_WEBPAGES_WITH_JAVASCRIPT.md)
 - [COMPUTER ARCHITECTURE AND LOGIC](/COMPUTER_ARCHITECTURE_AND_LOGIC.md)
 - [PROGRAMMING_WITH_JAVASCRIPT](/PROGRAMMING_WITH_JAVASCRIPT.md)
+
